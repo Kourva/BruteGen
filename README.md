@@ -8,7 +8,7 @@ Generates random characters, suitable for making bruteforce tools
 <br>
 
 ### Clone
-```bash
+```bash 
 git clone https://github.com/MemeSec/BruteGen && cd BruteGen && chmod +x BruteGen.py
 ```
 ```python
