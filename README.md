@@ -9,7 +9,7 @@ Generates random characters, suitable for making bruteforce tools
 
 ### Clone
 ```bash 
-git clone https://github.com/MemeSec/BruteGen && cd BruteGen && chmod +x BruteGen.py
+git clone https://github.com/Izolabela/BruteGen && cd BruteGen && chmod +x BruteGen.py
 ```
 ```python
 python3 BruteGen.py [OR] ./BruteGen.py
